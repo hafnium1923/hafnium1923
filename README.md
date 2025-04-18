@@ -47,7 +47,9 @@
 
 <br>
 
+<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafnium1923&layout=compact)
+</div>
 
 ### Recent Post 📚
 <a href="https://velog-readme-stats.vercel.app/api/redirect?name=hafnium1923"><img src="https://velog-readme-stats.vercel.app/api?name=hafnium1923"></a>
