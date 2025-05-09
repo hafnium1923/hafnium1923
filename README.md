@@ -43,20 +43,20 @@
 
 <h3 align="center">⚛️ Frontend & Mobile</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" /> &nbsp
+  <img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=000000" /> &nbsp
  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> &nbsp
- <img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=white" />
+ <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=000000" /> &nbsp
 </div>
 
 <br/>
 <h3 align="center">🧠 State</h3>
 <div align="center">
- <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=tanstack&logoColor=white" />&nbsp
+ <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />&nbsp
  <img src="https://img.shields.io/badge/zustand-000000?style=for-the-badge&logo=zustand&logoColor=white" />&nbsp
  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
  <img src="https://img.shields.io/badge/valtio-00C7B7?style=for-the-badge&logo=valtio&logoColor=white" />&nbsp
@@ -65,9 +65,9 @@
 <br/>
 <h3 align="center">🎨 Styling</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/css-663399.svg?style=for-the-badge&logo=css&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
 </div>
 <div align="center">
  <img src="https://img.shields.io/badge/Emotion-FF4A4A?style=for-the-badge&logo=emotion&logoColor=white" />&nbsp
@@ -90,10 +90,10 @@
 <h3 align="center">🧪 Testing & Mocking</h3>
 <div align="center">
  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />&nbsp
- <img src="https://img.shields.io/badge/Vitest-646CFF?style=for-the-badge&logo=vitest&logoColor=white" />&nbsp
+ <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />&nbsp
 </div>
 <div align="center">
- <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />&nbsp
+ <img src="https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white" />&nbsp
  <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />&nbsp
 </div>
 <div align="center">
@@ -116,6 +116,6 @@
 <h3 align="center">🔙 Backend</h3>
 <div align="center">
  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp
- <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />&nbsp
+ <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
 </div>
 
