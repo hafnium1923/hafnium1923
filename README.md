@@ -33,6 +33,10 @@
     <img
       src="https://img.shields.io/badge/hafnium1923@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+ <a href="https://www.linkedin.com/in/%EC%A7%80%EC%9D%80-%EC%86%A1-0b7aa2287/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-1071D3?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </div>
 
 <br/>
